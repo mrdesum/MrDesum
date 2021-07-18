@@ -1,7 +1,7 @@
 <h1 align="center">Hello there 👋, I'm MrDesum</h1>
 <h3 align="center">User of the Russian Federation</h3>
 
-<p align="left"> <img src="https://vk.com/mrdesum" alt="MrDesum" /> </p>
+<p align="left"> <img src="" alt="MrDesum" /> </p>
 
 - 🌱 I’m currently learning **music**
 
