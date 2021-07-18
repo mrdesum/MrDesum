@@ -1,7 +1,7 @@
 <h1 align="center">Hello all, I'm MrDesum</h1>
 <h3 align="center">❖ Just a Russian boy ❖</h3>
 
-<p align="left"> <img src="" alt="MrDesum" /> </p>
+<p align="left"> <img src="" alt="" /> </p>
 
 - ♪ I'm currently listening to **music** ♪
 
