@@ -3,6 +3,4 @@
 
 <p align="left"> <img src="https://mrdesum.ru/assets/business-card/favicon.ico" alt="" /> </p>
 
-- I currently exist?
-
 -  How to reach me [WebSite](https://mrdesum.ru) | **???@mail.ru**
