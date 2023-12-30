@@ -1,8 +1,8 @@
 <h1 align="center">Hello all, I'm MrDesum</h1>
-<h3 align="center">❖ Just a Russian boy ❖</h3>
+<h3 align="center">Just a Russian boy</h3>
 
-<p align="left"> <img src="" alt="" /> </p>
+<p align="left"> <img src="https://mrdesum.ru/assets/business-card/favicon.ico" alt="" /> </p>
 
-- ♪ I'm currently listening to **music** ♪
+- I currently exist?
 
-- 📫 How to reach me **guillester.st@mail.ru**, [VK](https://vk.com/mrdesum) / [Discord](https://discord.gg/vEBDQPc6rr)
+-  How to reach me [WebSite](https://mrdesum.ru) | **???@mail.ru**
